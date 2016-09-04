@@ -1,0 +1,27 @@
+{
+  "name": "powwow-js",
+  "version": "1.0.0",
+  "description": "Super simple GUI framework",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dreae/powwow-js.git"
+  },
+  "author": "Dreae <dreae@dreae.onl>",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/Dreae/powwow-js/issues"
+  },
+  "homepage": "https://github.com/Dreae/powwow-js#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-typescript": "^2.13.6",
+    "jquery": "^3.1.0",
+    "merge2": "^1.0.2",
+    "typescript": "^1.8.10"
+  }
+}
